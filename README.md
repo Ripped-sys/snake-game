@@ -1,4 +1,4 @@
 # Snake Game
 
 This is the first game I published, Snake. I will continue to improve it.
-![Snake Game](images/snake.png)
+![Snake Game](image.png)
